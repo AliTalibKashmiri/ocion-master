@@ -47,7 +47,7 @@ class _selectOptionState extends State<selectOption> {
                   ),
                 ),
                 SizedBox(
-                  height: height / 50,
+                  height: height / 60,
                 ),
                 Center(
                     child: Text(
